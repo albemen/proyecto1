@@ -1,0 +1,53 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background-image: url("../imagenes/fondo.jpg");
+}
+
+.contenido {
+	background-color: white;
+	border-radius: 20px;
+	margin: 0 auto;
+	width: 70%;
+}
+
+#caja_logo{
+	float:left;
+	width: 30%;
+}
+
+#menu {
+	float:left;
+	width: 30%;
+	position: relative;
+	bottom: -40px;
+}
+#logo{
+	width: 200px; height: 100px;
+}
+
+.slider {
+width: 1200px;
+ margin: 0 auto;
+}
+
+#contenedor {
+	margin: 0 auto;
+	text-align: center;
+	
+}
+
+.footer {
+	margin: 0 auto;
+	text-align: center;
+	
+}
+
+a {
+	padding: 4px 25px;
+	background: rgb(19, 143, 247);
+	border: 1px solid #1161B0;
+	color: #fff;
+	border-radius: 4px;
+	text-decoration: none;
+}
